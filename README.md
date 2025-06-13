@@ -89,11 +89,12 @@ npm run dev
 
 ---
 
-## 🌐 Deployment Suggestions
+## 🌐🌐 Live Demo
 
-* **Frontend**: Vercel or Netlify
-* **Backend**: Render or Railway
-* **Database**: MongoDB Atlas
+🔗 Frontend: https://vercel.com/rkkuntals-projects/imagify-ai
+
+🔗 Backend API: https://imagify-backend-m1sh.onrender.com
+
 
 ---
 
