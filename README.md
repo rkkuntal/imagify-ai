@@ -91,7 +91,7 @@ npm run dev
 
 ## 🌐🌐 Live Demo
 
-🔗 Frontend: https://vercel.com/rkkuntals-projects/imagify-ai
+🔗 Frontend: https://imagify-ai-pi.vercel.app/
 
 🔗 Backend API: https://imagify-backend-m1sh.onrender.com
 
